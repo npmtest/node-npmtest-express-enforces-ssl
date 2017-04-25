@@ -1,4 +1,7 @@
-# test coverage for  [express-enforces-ssl (v1.1.0)](https://github.com/aredo/express-enforces-ssl)  [![npm package](https://img.shields.io/npm/v/npmtest-express-enforces-ssl.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-enforces-ssl) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-enforces-ssl.svg)](https://travis-ci.org/npmtest/node-npmtest-express-enforces-ssl)
+# npmtest-express-enforces-ssl
+
+#### basic test coverage for  [express-enforces-ssl (v1.1.0)](https://github.com/aredo/express-enforces-ssl)  [![npm package](https://img.shields.io/npm/v/npmtest-express-enforces-ssl.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-enforces-ssl) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-enforces-ssl.svg)](https://travis-ci.org/npmtest/node-npmtest-express-enforces-ssl)
+
 #### Enforces SSL for node.js express projects
 
 [![NPM](https://nodei.co/npm/express-enforces-ssl.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/express-enforces-ssl)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-express-enforces-ssl/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-express-enforces-ssl/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-express-enforces-ssl/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-express-enforces-ssl/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-express-enforces-ssl/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-express-enforces-ssl/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-express-enforces-ssl/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-express-enforces-ssl/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-express-enforces-ssl/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-express-enforces-ssl/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-express-enforces-ssl/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-express-enforces-ssl/build/coverage.html/index.html)
 
@@ -74,7 +77,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
